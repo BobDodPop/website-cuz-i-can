@@ -4,37 +4,14 @@ body {
     margin: 20px;
 }
 
-h1 {
-    color: blue;
+title {
+    color: black;
     text-align: center;
-    font-size: 24px;
+    font-size: 48px;
 }
 
-h2 {
-    color: darkblue;
-    font-size: 20px;
-}
-
-#joke {
-    color: rgb(255, 0, 0);
-    font-size: 16px;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-#quote {
-    color: rgb(0, 0, 255);
-    font-size: 16px;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-p {
-    font-size: 16px;
-    text-align: left;
-}
-
-table, th, td, tr {
-  border: 3px solid black;
-  border-radius: 10px;
-  font-size: 50px;
-  text-align: center;
+subtitle {
+    color: gray;
+    text-align: center;
+    font-size: 32;
 }

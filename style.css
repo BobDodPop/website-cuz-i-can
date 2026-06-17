@@ -1,22 +1,28 @@
 body {
-    background-color: rgb(150, 255, 150);
+    background-color: rgb(175, 175, 175);
     font-family: 'Times New Roman', Times, serif;
     margin: 20px;
 }
 
-title {
-    color: blue;
+h1 {
+    color: black;
     text-align: center;
     font-size: 24px;
 }
 
-subtitle {
-    color: gray;
-    text-align: center;
-    font-size: 32px;
+h2 {
+    color: darkgray;
+    font-size: 20px;
 }
 
 p {
     font-size: 16px;
     text-align: left;
+}
+
+table, th, td, tr {
+  border: 3px solid black;
+  border-radius: 10px;
+  font-size: 50px;
+  text-align: center;
 }
